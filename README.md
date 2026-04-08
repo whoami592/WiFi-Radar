@@ -19,6 +19,9 @@ pywifi (WiFi interface control)
 subprocess (system commands)
 time and os modules
 
+
+
+
 # Clone the repository
 git clone https://github.com/whoami592/WiFi-Radar
 
@@ -26,16 +29,26 @@ git clone https://github.com/whoami592/WiFi-Radar
 cd wifi radar
 cd Radar
 
+
+
+
 ⚠️ Disclaimer
 
 This tool is created for educational purposes only.
 Do not use this project for illegal activities. The developer is not responsible for any misuse.
+
+
+
 
 🌟 Future Improvements
 GUI version (Tkinter / PyQt)
 Real-time graph visualization
 Export scan results (CSV/JSON)
 Network security analysis module
+
+
+
+
 
 ❤️ Support
 
